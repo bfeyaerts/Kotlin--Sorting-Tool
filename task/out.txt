@@ -1,0 +1,1 @@
+-2: 1 time(s) 14%333: 1 time(s) 14%4: 1 time(s) 14%42: 1 time(s) 14%1: 3 time(s) 42%Sorted data: -2 1 1 1 333 4 42
